@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-community
 chromadb
 sentence-transformers
 transformers
@@ -10,3 +11,4 @@ python-dotenv
 langchain-google-genai
 dateutils
 tf-keras
+
